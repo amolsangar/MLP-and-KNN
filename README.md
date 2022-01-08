@@ -1,7 +1,7 @@
 # Machine Learning - MLP and KNN
 Scratch implementation of Multilayer Perceptron (MLP) and K-Nearest Neighbor (KNN) algorithms
 
-# Part 1 – KNN Classification
+# KNN Classification
 - The fit method for this function is implemented by simply mapping the input and output data to the class variables.
 
 - In the predict method, there are two loops implemented thus running time complexity for this algorithm is O(n^2).
@@ -10,7 +10,7 @@ Scratch implementation of Multilayer Perceptron (MLP) and K-Nearest Neighbor (KN
 
 - The algorithm consistently works well when compared with the output of sklearn models.
 
-# Part 2 – MLP Classification
+# MLP Classification
 **Fit method** 
 - It initializes random values to weights and biases for the output and the hidden layer. After this, the training starts and it uses these weights to perform forward propagation. 
 
