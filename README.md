@@ -1,4 +1,5 @@
-# Assignment 4: Machine Learning
+# Machine Learning
+- Scratch implementation of Multilayer Perceptron (MLP) and K-Nearest Neighbor (KNN) algorithms
 
 # Part 1 – KNN Classification
 - The fit method for this function is implemented by simply mapping the input and output data to the class variables.
